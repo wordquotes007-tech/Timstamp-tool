@@ -1,11 +1,9 @@
+
 {
   "name": "timestamp-tool",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "vite build"
-  },
-  "dependencies": {
-    "vite": "^5.0.0"
   }
 }
