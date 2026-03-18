@@ -1,13 +1,17 @@
 {
-  "name": "project",
+  "name
+
+  {
+  "name": "timestamp-tool",
+  "version": "1.0.0",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^5.0.0"
+  }
+}
   },
   "dependencies": {
     "include": ["src/**/*"]
@@ -29,16 +33,5 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.56.1",
     "vite": "^8.0.0"
-  }
-}
-{
-  "name": "timestamp-tool",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "vite build"
-  },
-  "dependencies": {
-    "vite": "^5.0.0"
   }
 }
