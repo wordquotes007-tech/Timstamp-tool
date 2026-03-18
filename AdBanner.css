@@ -1,0 +1,37 @@
+.ad-banner {
+  padding: 1.5rem 0;
+  background-color: var(--bg-secondary);
+}
+
+.ad-placeholder {
+  background-color: var(--bg-tertiary);
+  border: 2px dashed var(--border-color);
+  border-radius: 0.5rem;
+  padding: 3rem;
+  text-align: center;
+  color: var(--text-secondary);
+}
+
+.ad-placeholder p {
+  font-size: 0.875rem;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.ad-placeholder span {
+  font-size: 0.75rem;
+  opacity: 0.7;
+}
+
+.ad-top {
+  margin-bottom: 0;
+}
+
+.ad-middle {
+  margin: 3rem 0;
+}
+
+.ad-bottom {
+  margin-top: 3rem;
+}
